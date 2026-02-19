@@ -1,4 +1,4 @@
-# Assignment : Assignment -06 [ Firebase Authentication System (React + Firebase)]
+# Assignment -06 [ Firebase Authentication System (React + Firebase)]
 
 ### Name : Md Abdus Sabur
 
